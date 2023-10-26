@@ -1,6 +1,6 @@
 # 📋Sistema de Gerenciamento de Tarefas
 
-Esse é um desafio de Typescript proposto pelo professor [Augusto César Oliveira](https://github.com/augustocesarfmo) da FAP-Softex.
+ Atividade - Typescript proposta pelo professor Augusto César da FAP-Softex.
 
 ## ✔️Desafio Proposto
 
